@@ -1,1 +1,1 @@
-yes, i am run!
+print("hello my python")
