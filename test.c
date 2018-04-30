@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
 	printf("hell world");
-	int a=0; // modify in master
+	printf("new branch");
 	return 0;
 }
